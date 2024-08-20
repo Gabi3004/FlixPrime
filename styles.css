@@ -3,20 +3,20 @@ body {
     background: rgba(0, 0, 0, 0.375);
     margin: 0px;
     font-family: "DM serif text", sans-serif;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
 }
 
 header {
     border-bottom: solid 2px rgb(42, 85, 228);
     padding: 26px;
-    font-size: 42px;
+    font-size: 45px;
     color: rgb(42, 228, 88);
 }
 
 .chamada {
     background: rgb(213, 156, 187);
-    padding-bottom: 80px;
-    padding-top: 80px;
+    padding-bottom: 90px;
+    padding-top: 90px;
     display: flex;
     justify-content: center;
 }
@@ -26,11 +26,11 @@ header {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 44px;
 }
 
 p {
-    font-size: 20px;
+    font-size: 28px;
 }
 
 .categoria-videos {
